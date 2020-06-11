@@ -1,4 +1,5 @@
 === Pressbooks ===
+
 Contributors: Pressbooks <code@pressbooks.com>
 Tags: ebooks, publishing, webbooks
 Requires at least: 5.4
