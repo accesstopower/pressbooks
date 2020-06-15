@@ -1,4 +1,3 @@
-
 === Pressbooks ===
 Contributors: Pressbooks <code@pressbooks.com>
 Tags: ebooks, publishing, webbooks
